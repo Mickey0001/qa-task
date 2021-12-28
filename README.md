@@ -1,2 +1,2 @@
 # qa-task
-Selenium UI Automation Framework sample
+QA tasks, with selenium UI Automation Framework sample
