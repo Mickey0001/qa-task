@@ -1,0 +1,22 @@
+{
+  "name": "cypress-ui-task",
+  "version": "1.0.0",
+  "description": "task for doodle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mickey0001/selenium-qa-task.git"
+  },
+  "author": "Mirza Sisic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mickey0001/selenium-qa-task/issues"
+  },
+  "homepage": "https://github.com/Mickey0001/selenium-qa-task#readme",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  }
+}
