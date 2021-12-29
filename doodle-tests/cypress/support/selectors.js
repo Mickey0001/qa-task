@@ -1,5 +1,7 @@
 
 export default {
+    cookieButtonGroup:'#onetrust-button-group',
+    cookieAccepptButton: '#onetrust-accept-btn-handler',
     createDoodleButton: '[data-testid="navigation-menu-create-date-poll"]',
     doodleStepOneContinueButton: '.d-actionButtons > .d-button',
     doodleStepOneTitleInput: '#d-pollTitleContainer > .d-fieldContainer > .d-inputContainer',
